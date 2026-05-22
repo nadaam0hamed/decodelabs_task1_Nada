@@ -1,95 +1,72 @@
-Full Stack Development – Project 1
-DecodeLabs Internship
-📌 Project Idea
+💖 My Portfolio Website
 
-The main goal of Project 1 is to build a Responsive Frontend Interface using:
+A responsive and modern portfolio website created using HTML, CSS, and JavaScript as part of my journey in Full Stack Development.
 
-HTML
-CSS
-Basic JavaScript
+🚀 Live Demo
 
-The project focuses on making a website that works smoothly on:
+[https://nadaam0hamed.github.io/decodelabs_task1_Nada/]
 
-Mobile phones 📱
-Tablets 📲
-Laptops 💻
-Large screens 🖥️
-📖 Simple Explanation of the PDF
-1. Welcome Message
+💻 GitHub Repository
 
-DecodeLabs explains that this is the first step in becoming a Full Stack Developer. Before learning backend and databases, you must first learn how to build a clean and responsive frontend.
+[https://github.com/nadaam0hamed/decodelabs_task1_Nada]
 
-2. Main Goal
+📌 Features
+Responsive Design 📱
+Smooth Scrolling Navigation ✨
+Interactive Button with JavaScript ⚡
+Modern Pink UI Design 💖
+About, Skills, and Contact Sections
+Mobile-Friendly Layout
 
-You need to create:
+🛠 Technologies Used
+HTML5
+CSS3
+JavaScript
 
-A responsive website
-Clean UI design
-User-friendly layout
-Basic interactions using JavaScript
+📂 Project Structure
+project-folder/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
-3. Skills You Will Learn
+📖 What I Learned
 
-Through this project you practice:
+Through this project, I practiced:
 
-Frontend development
-Responsive web design
-Flexbox & Grid
-Navigation bars
-Buttons and forms
-Mobile-friendly layouts
-Basic JavaScript interactions
+Building webpage structures using HTML
+Designing responsive layouts with CSS
+Adding interactivity using JavaScript
+Creating single-page portfolio websites
+Deploying projects using GitHub Pages
 
+⚙️ How to Run the Project
+Clone the repository
+git clone https://github.com/nadaam0hamed/decodelabs_task1_Nada.git
+Open the project folder
+Run index.html in your browser
 
-✅ What You Should Build
+🌐 Deployment
 
-Suggested Project:
-Responsive Portfolio / Landing Page
+This project is deployed using GitHub Pages.
 
-Your website can include:
+To deploy:
 
-Home Section
-Title
-Short introduction
-Call-to-action button
-About Section
-Information about you
-Skills
-Internship details
-Services / Features Section
-Frontend Development
-Responsive Design
-UI/UX Basics
-Contact Section
-Email
-Phone
-Social links
+Push your project to GitHub
+Go to Repository Settings
+Open Pages
+Select the main branch
+Save and get your live link
 
-🛠️ Technologies Used
+👩‍💻 Author
 
-Technology	   Purpose
+Nada Mohamed
+Full Stack Development Intern at DecodeLabs
 
-HTML	      Website structure
-CSS	          Styling and responsiveness
-JavaScript    Interactivity
+LinkedIn: [www.linkedin.com/in/nada-mohamed-75908930b]
+Email: nadaam0hamed1111@gmail.com
 
-📱 Responsive Design Requirements
-Your website should:
+📜 License
 
-Adjust automatically on mobile screens
-Use Flexbox or Grid
-Have readable text sizes
-Include spacing and alignment
-Use media queries
-
-
-
-Conclusion
-Project 1 is mainly about proving that you understand:
-
-Responsive frontend basics
-Clean UI design
-HTML/CSS structure
-Basic JavaScript functionality
-
-Once completed, you move to more advanced full stack projects in the internship.
+This project is open-source and available for learning purposes.
